@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EGStore.API", "EGStore\EGStore.API.csproj", "{B926A637-7CD1-4B14-A042-FE85E345504D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EGStore.Domain", "EGStore.Domain\EGStore.Domain.csproj", "{791B6D4F-3596-45EE-8E7D-5F49AE18C940}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EGStore.Application", "EGStore.Application\EGStore.Application.csproj", "{A807232C-4A46-4229-B7DE-E24AFDE38A4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EGStore.Infrastructure", "EGStore.Infrastructure\EGStore.Infrastructure.csproj", "{E4D31DEC-F147-40CA-96B7-942DE60E74FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B926A637-7CD1-4B14-A042-FE85E345504D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B926A637-7CD1-4B14-A042-FE85E345504D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B926A637-7CD1-4B14-A042-FE85E345504D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B926A637-7CD1-4B14-A042-FE85E345504D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{791B6D4F-3596-45EE-8E7D-5F49AE18C940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791B6D4F-3596-45EE-8E7D-5F49AE18C940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791B6D4F-3596-45EE-8E7D-5F49AE18C940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791B6D4F-3596-45EE-8E7D-5F49AE18C940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A807232C-4A46-4229-B7DE-E24AFDE38A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A807232C-4A46-4229-B7DE-E24AFDE38A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A807232C-4A46-4229-B7DE-E24AFDE38A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A807232C-4A46-4229-B7DE-E24AFDE38A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D31DEC-F147-40CA-96B7-942DE60E74FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D31DEC-F147-40CA-96B7-942DE60E74FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D31DEC-F147-40CA-96B7-942DE60E74FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D31DEC-F147-40CA-96B7-942DE60E74FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E88D16D3-FBEE-407F-9C7C-07453876A4F0}
+	EndGlobalSection
+EndGlobal

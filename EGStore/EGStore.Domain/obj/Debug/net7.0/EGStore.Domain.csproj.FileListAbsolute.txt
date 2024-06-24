@@ -1,0 +1,14 @@
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\bin\Debug\net7.0\EGStore.Domain.deps.json
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\bin\Debug\net7.0\EGStore.Domain.runtimeconfig.json
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\bin\Debug\net7.0\EGStore.Domain.dll
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\bin\Debug\net7.0\EGStore.Domain.pdb
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\obj\Debug\net7.0\EGStore.Domain.csproj.AssemblyReference.cache
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\obj\Debug\net7.0\EGStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\obj\Debug\net7.0\EGStore.Domain.AssemblyInfoInputs.cache
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\obj\Debug\net7.0\EGStore.Domain.AssemblyInfo.cs
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\obj\Debug\net7.0\EGStore.Domain.csproj.CoreCompileInputs.cache
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\obj\Debug\net7.0\EGStore.Domain.dll
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\obj\Debug\net7.0\refint\EGStore.Domain.dll
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\obj\Debug\net7.0\EGStore.Domain.pdb
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\obj\Debug\net7.0\EGStore.Domain.genruntimeconfig.cache
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Domain\obj\Debug\net7.0\ref\EGStore.Domain.dll

@@ -1,0 +1,15 @@
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\obj\Debug\net7.0\EGStore.Infrastructure.csproj.AssemblyReference.cache
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\obj\Debug\net7.0\EGStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\obj\Debug\net7.0\EGStore.Infrastructure.AssemblyInfoInputs.cache
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\obj\Debug\net7.0\EGStore.Infrastructure.AssemblyInfo.cs
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\obj\Debug\net7.0\EGStore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\bin\Debug\net7.0\EGStore.Infrastructure.deps.json
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\bin\Debug\net7.0\EGStore.Infrastructure.dll
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\bin\Debug\net7.0\EGStore.Infrastructure.pdb
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\bin\Debug\net7.0\EGStore.Domain.dll
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\bin\Debug\net7.0\EGStore.Domain.pdb
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\obj\Debug\net7.0\EGStore.Infrastructure.csproj.CopyComplete
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\obj\Debug\net7.0\EGStore.Infrastructure.dll
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\obj\Debug\net7.0\refint\EGStore.Infrastructure.dll
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\obj\Debug\net7.0\EGStore.Infrastructure.pdb
+D:\Study\Nam 4\DoAnTotNghiep\EyeGlassesStore\BE-Store\EGStore\EGStore.Infrastructure\obj\Debug\net7.0\ref\EGStore.Infrastructure.dll
